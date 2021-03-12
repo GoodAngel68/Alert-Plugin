@@ -1,0 +1,9 @@
+name: TwojeIP_Alert
+main: TwojeIP_Alert\Main
+author: GoodAngel68
+version: 1.0
+api: 3.0.0
+
+commands:
+  alert:
+    description: Komenda Alert
